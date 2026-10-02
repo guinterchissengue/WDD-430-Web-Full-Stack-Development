@@ -4,9 +4,9 @@ export default function Header() {
   return (
     <header className="bg-slate-900 text-white shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <div className="text-xl font-bold">
-          {/* TODO: Add your name or portfolio title here */}
-          TODO: My Portfolio
+          <div className="text-xl font-bold">
+  Guinter Chissengue
+</div>
         </div>
         <nav aria-label="Main Navigation">
           <ul className="flex space-x-6">

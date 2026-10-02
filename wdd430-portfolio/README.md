@@ -1,6 +1,5 @@
 # WDD430 Portfolio
-
-Uma aplicação de portfólio responsiva e acessível construída para a atividade WDD430 — W01 Assignment: My First Next.js App.
+A responsive and accessible portfolio application built for the WDD430 — W01 Assignment: My First Next.js App.
 
 ## Technologies
 - Next.js (App Router)
@@ -29,4 +28,4 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deployment
-Vercel URL: TODO
+Vercel URL:(https://vercel.com/wdd-430-web-full-stack-development1/wdd430-portfolio/EQu2LPBHHq7WpaxVyDN9ucVnDAfp)
